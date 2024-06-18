@@ -10,12 +10,12 @@
 <!-- Schmatic -->
 ## Schmatic
 * Positive edge detector is to delay the original signal by 1 clock cycle, then the inverse of the delayed signal peforms a logic AND with the original signal
-![image]()
+![image](https://github.com/trista-csee/Positive_Edge_Detector/blob/main/Schmatic.png)
 
 <!-- Simulation -->
 ## Simulation
 * See a positive pulse whenever the signal changes value from 0 to 1
-![image]()
+![image](https://github.com/trista-csee/Positive_Edge_Detector/blob/main/Simulation.png)
 
 <!-- LICENSE -->
 ## License
@@ -30,7 +30,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 吳華楨 Trista Wu - trista.cs11@nycu.edu.tw
 
-Project Link: []()
+Project Link: [https://github.com/trista-csee/Positive_Edge_Detector](https://github.com/trista-csee/Positive_Edge_Detector)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
