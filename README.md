@@ -7,8 +7,8 @@
 <!-- PROJECT Name -->
 <h1 align="center">Monitor the signal which changes value from 0 to 1 (positive edge)</h1>
 
-<!-- Schmatic -->
-## Schmatic
+<!-- Schematic -->
+## Schematic
 * Positive edge detector is to delay the original signal by 1 clock cycle, then the inverse of the delayed signal peforms a logic AND with the original signal
 ![image](https://github.com/trista-csee/Positive_Edge_Detector/blob/main/Schmatic.png)
 
